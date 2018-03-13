@@ -1,0 +1,28 @@
+\contentsline {section}{\tocsection {}{}{Introduction}}{2}{section*.2}
+\contentsline {subsection}{\tocsubsection {}{}{Layout}}{2}{section*.3}
+\contentsline {subsection}{\tocsubsection {}{}{Conventions}}{2}{section*.4}
+\contentsline {section}{\tocsection {}{1}{Recollections \leavevmode {\color {blue}[Bruno]}}}{2}{section.1}
+\contentsline {subsection}{\tocsubsection {}{1.1}{Complete shifted homotopy Lie algebras}}{2}{subsection.1.1}
+\contentsline {subsection}{\tocsubsection {}{1.2}{Algebraic $\infty $-groupoid}}{3}{subsection.1.2}
+\contentsline {section}{\tocsection {}{2}{Cosimplicial object \leavevmode {\color {blue}[Bruno]}}}{4}{section.2}
+\contentsline {subsection}{\tocsubsection {}{2.1}{Dold--Kan correspondence}}{4}{subsection.2.1}
+\contentsline {subsection}{\tocsubsection {}{2.2}{Maurer--Cartan cosimplicial complete $\ensuremath {\mathcal {sL}_\infty }$-algebra}}{5}{subsection.2.2}
+\contentsline {subsection}{\tocsubsection {}{2.3}{Non-abelian Dold--Kan adjunction}}{7}{subsection.2.3}
+\contentsline {section}{\tocsection {}{3}{Relation with Maurer--Cartan spaces \leavevmode {\color {red}[Daniel]}}}{8}{section.3}
+\contentsline {subsection}{\tocsubsection {}{3.1}{Statement}}{8}{subsection.3.1}
+\contentsline {subsection}{\tocsubsection {}{3.2}{XXX}}{8}{subsection.3.2}
+\contentsline {subsection}{\tocsubsection {}{3.3}{YYY}}{8}{subsection.3.3}
+\contentsline {subsection}{\tocsubsection {}{3.4}{ZZZ}}{8}{subsection.3.4}
+\contentsline {section}{\tocsection {}{4}{Higher Lawrence--Sullivan algebra \leavevmode {\color {red}[Daniel]} \leavevmode {\color {blue}[Bruno]}}}{8}{section.4}
+\contentsline {subsection}{\tocsubsection {}{4.1}{Generalisation of the Lawrence--Sullivan algebra to the $\ensuremath {\mathcal {sL}_\infty }$-case \leavevmode {\color {red}[Daniel]}}}{8}{subsection.4.1}
+\contentsline {subsection}{\tocsubsection {}{4.2}{Homotopies between $\infty $-morphisms \leavevmode {\color {blue}[Bruno]}}}{9}{subsection.4.2}
+\contentsline {section}{\tocsection {}{5}{How to fill horns in Maurer--Cartan spaces\leavevmode {\color {blue}[Bruno]}}}{9}{section.5}
+\contentsline {subsection}{\tocsubsection {}{5.1}{Filling horns \leavevmode {\color {blue}[Bruno]}}}{9}{subsection.5.1}
+\contentsline {subsection}{\tocsubsection {}{5.2}{Applications: Higher BCH-formul\ae \leavevmode {\color {green}[Work in progress]}}}{10}{subsection.5.2}
+\contentsline {section}{\tocsection {}{6}{Homotopy theory\leavevmode {\color {blue}[Bruno]}}}{11}{section.6}
+\contentsline {subsection}{\tocsubsection {}{6.1}{The model category structure}}{11}{subsection.6.1}
+\contentsline {subsection}{\tocsubsection {}{6.2}{Homotopy invariance of the representation functor}}{12}{subsection.6.2}
+\contentsline {section}{\tocsection {Appendix}{A}{Formal equations\leavevmode {\color {blue}[Bruno]}}}{13}{appendix.A}
+\contentsline {subsection}{\tocsubsection {}{A.1}{Formal fixed-point equations}}{13}{subsection.A.1}
+\contentsline {subsection}{\tocsubsection {}{A.2}{Formal differential equations}}{14}{subsection.A.2}
+\contentsline {section}{\tocsection {Appendix}{}{References}}{14}{section*.6}

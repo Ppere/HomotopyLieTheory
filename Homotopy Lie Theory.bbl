@@ -1,0 +1,94 @@
+\def\cprime{$'$}
+\begin{thebibliography}{BFMT16}
+
+\bibitem[Ban14]{Bandiera14}
+R.~Bandiera.
+\newblock {\em Higher Deligne groupoids, derived brackets and de\-for\-ma\-tion
+  pro\-blems in ho\-lo\-morphic Poisson geometry}.
+\newblock PhD thesis, Universit{\`a} degli studi di {R}oma {``La
+  Sa\-pien\-za"}, 2014.
+
+\bibitem[BFMT16]{BFMT16}
+U.~{Buijs}, Y.~{F{\'e}lix}, A.~{Murillo}, and D.~{Tanr{\'e}}.
+\newblock {Homotopy theory of complete Lie algebras and Lie models of
+  simplicial sets}.
+\newblock {\em ArXiv e-prints}, 2016.
+
+\bibitem[BM03]{BergerMoerdijk03}
+C.~Berger and I.~Moerdijk.
+\newblock Axiomatic homotopy theory for operads.
+\newblock {\em Comment. Math. Helv.}, 78(4):805--831, 2003.
+
+\bibitem[DR15]{DolgushevRogers15}
+Vasily~A. Dolgushev and Christopher~L. Rogers.
+\newblock A version of the {G}oldman-{M}illson theorem for filtered
+  {$L_\infty$}-algebras.
+\newblock {\em J. Algebra}, 430:260--302, 2015.
+
+\bibitem[DSV18]{DotsenkoShadrinVallette18}
+Vladimir {Dotsenko}, Sergei {Shadrin}, and Bruno {Vallette}.
+\newblock {The twisting procedure}.
+\newblock {\em \texttt{arXiv:???}}, 2018.
+
+\bibitem[Dup76]{Dupont76}
+Johan~L. Dupont.
+\newblock Simplicial de {R}ham cohomology and characteristic classes of flat
+  bundles.
+\newblock {\em Topology}, 15(3):233--245, 1976.
+
+\bibitem[Get09]{Getzler09}
+Ezra Getzler.
+\newblock Lie theory for nilpotent {$L_\infty$}-algebras.
+\newblock {\em Ann. of Math. (2)}, 170(1):271--301, 2009.
+
+\bibitem[GJ09]{GoerssJardine09}
+Paul~G. Goerss and John~F. Jardine.
+\newblock {\em Simplicial homotopy theory}.
+\newblock Modern Birkh\"auser Classics. Birkh\"auser Verlag, Basel, 2009.
+
+\bibitem[Hin97]{Hinich97bis}
+Vladimir Hinich.
+\newblock Descent of {D}eligne groupoids.
+\newblock {\em Internat. Math. Res. Notices}, (5):223--239, 1997.
+
+\bibitem[Hov99]{Hovey99}
+Mark Hovey.
+\newblock {\em Model categories}, volume~63 of {\em Mathematical Surveys and
+  Monographs}.
+\newblock American Mathematical Society, Providence, RI, 1999.
+
+\bibitem[Kan58]{Kan58bis}
+Daniel~M. Kan.
+\newblock Functors involving c.s.s. complexes.
+\newblock {\em Trans. Amer. Math. Soc.}, 87:330--346, 1958.
+
+\bibitem[LV12]{LodayVallette12}
+Jean-Louis Loday and Bruno Vallette.
+\newblock {\em Algebraic operads}, volume 346 of {\em Grundlehren der
+  Mathematischen Wissenschaften [Fundamental Principles of Mathematical
+  Sciences]}.
+\newblock Springer-Verlag, Berlin, 2012.
+
+\bibitem[Nik11]{Nickolaus11}
+Thomas Nikolaus.
+\newblock Algebraic models for higher categories.
+\newblock {\em Indag. Math. (N.S.)}, 21(1-2):52--75, 2011.
+
+\bibitem[Qui67]{Quillen67}
+Daniel~G. Quillen.
+\newblock {\em Homotopical algebra}.
+\newblock Lecture Notes in Mathematics, No. 43. Springer-Verlag, Berlin, 1967.
+
+\bibitem[RN17]{rn17cosimplicial}
+D.~Robert-Nicoud.
+\newblock Representing the {D}eligne--{H}inich--{G}etzler $\infty$-groupoid.
+\newblock 2017.
+\newblock \href{https://arxiv.org/abs/1702.02529}{arXiv:1702.02529}.
+
+\bibitem[RNW17]{rnw17}
+D.~Robert-Nicoud and F.~Wierstra.
+\newblock Homotopy morphisms between convolution homotopy {L}ie algebras.
+\newblock 2017.
+\newblock \href{https://arxiv.org/abs/1712.00794}{arXiv:1712.00794}.
+
+\end{thebibliography}

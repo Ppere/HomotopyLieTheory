@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Homotopy Lie Theory.aux
+The style file: alpha.bst
+Database file #1: bib.bib
+Warning--there's a number but no volume in Hinich97bis
+Warning--empty journal in rn17cosimplicial
+Warning--empty journal in rnw17
+You've used 16 entries,
+            2543 wiz_defined-function locations,
+            677 strings with 6800 characters,
+and the built_in function-call counts, 5494 in all, are:
+= -- 554
+> -- 223
+< -- 11
++ -- 70
+- -- 69
+* -- 381
+:= -- 937
+add.period$ -- 52
+call.type$ -- 16
+change.case$ -- 85
+chr.to.int$ -- 16
+cite$ -- 19
+duplicate$ -- 233
+empty$ -- 406
+format.name$ -- 93
+if$ -- 1092
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 19
+newline$ -- 86
+num.names$ -- 48
+pop$ -- 76
+preamble$ -- 2
+purify$ -- 106
+quote$ -- 0
+skip$ -- 181
+stack$ -- 0
+substring$ -- 282
+swap$ -- 18
+text.length$ -- 11
+text.prefix$ -- 8
+top$ -- 0
+type$ -- 112
+warning$ -- 3
+while$ -- 53
+width$ -- 18
+write$ -- 213
+(There were 3 warnings)

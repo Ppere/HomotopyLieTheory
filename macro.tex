@@ -1,0 +1,109 @@
+\newcommand{\daniel}[1]{\textcolor{red}{#1}}
+\newcommand{\bruno}[1]{\textcolor{blue}{#1}}
+
+% CATEGORY
+
+\newcommand{\sSe}{\mathsf{sSet}}
+\newcommand{\sLialg}{\ensuremath{\mathcal{sL}_\infty\text{-}\,\mathsf{alg}}}
+\newcommand{\sLiealg}{\ensuremath{\mathcal{s}\lie\,\text{-}\,\mathsf{alg}}}
+\def\cD{\mathrm{\Delta}}
+
+% OPERADS
+
+\newcommand{\sLi}{\ensuremath{\mathcal{sL}_\infty}}
+\newcommand{\sLie}{\ensuremath{\mathcal{s}\mathrm{Lie}}}
+\newcommand{\com}{\ensuremath{\mathrm{Com}}}
+\newcommand{\Cobar}{\ensuremath{\Omega}}
+\renewcommand{\Bar}{\ensuremath{\mathrm{B}}}
+\newcommand{\lie}{\ensuremath{\mathrm{Lie}}}
+
+% ALGEBRAS
+
+\newcommand{\g}{\ensuremath{\mathfrak{g}}}
+\newcommand{\wsLi}{\ensuremath{\widehat{\mathcal{sL}_\infty}}}
+
+% FUNCTORS 
+
+\newcommand{\R}{\ensuremath{\mathrm{R}}}
+\renewcommand{\L}{\ensuremath{\mathscr{L}}}
+\newcommand{\Li}{\mathfrak{L}_\infty}
+
+% AUTRES 
+
+\newcommand{\antishriek}{\mbox{\footnotesize{\rotatebox[origin=c]{180}{$!$}}}}
+\newcommand{\RT}{\mathrm{RT}}
+\newcommand{\Sy}{\mathbb{S}}
+\renewcommand{\d}{\ensuremath{\mathrm{d}}}
+\newcommand{\PP}{\ensuremath{\mathrm{P}}}
+\def\Ho#1#2{\Lambda^{#2}_{#1}}
+\def\De#1{\mathrm{\Delta}^{#1}}
+\newcommand{\NN}{\mathbb{N}}
+\newcommand{\RR}{\mathbb{R}}
+
+%%%%%%%%
+\newcommand{\CC}{\ensuremath{\mathrm{CC}_\infty}}
+
+%%%%%%%%%%%%  NOT INCORPORED YET %%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\Lalg}{\ensuremath{\mathscr{L}_\infty\text{-}\mathsf{alg}}}
+
+\newcommand{\F}{\ensuremath{\mathrm{F}}}
+\newcommand{\h}{\ensuremath{\mathfrak{h}}}
+
+
+\newcommand{\C}{\ensuremath{\mathscr{C}}}
+\newcommand{\D}{\ensuremath{\mathscr{D}}}
+\renewcommand{\P}{\ensuremath{\mathscr{P}}}
+
+
+
+\newcommand{\End}{\ensuremath{\mathrm{End}}}
+\newcommand{\susp}{\ensuremath{\mathscr{S}}}
+\newcommand{\T}{\ensuremath{\mathcal{T}}}
+\newcommand{\vdl}{\ensuremath{\mathrm{VdL}}}
+\newcommand{\Tw}{\ensuremath{\mathrm{Tw}}}
+\newcommand{\Hom}{\ensuremath{\mathrm{Hom}}}
+\renewcommand{\S}{\ensuremath{\mathbb{S}}}
+\renewcommand{\k}{\ensuremath{\mathbb{K}}}
+\newcommand{\id}{\ensuremath{\mathrm{id}}}
+\newcommand{\MC}{\ensuremath{\mathrm{MC}}}
+\newcommand{\mc}{\ensuremath{\mathfrak{mc}}}
+\newcommand{\mcoo}{\ensuremath{\mathfrak{mc}^\infty}}
+\newcommand{\dgl}{\ensuremath{\mathsf{dgLie}}}
+
+
+\newcommand{\ad}{\operatorname{ad}}
+\newcommand{\PTt}{\ensuremath{\widetilde{\mathrm{PT}}}}
+\newcommand{\PT}{\ensuremath{\mathrm{PT}}}
+
+\makeatletter
+\newcommand{\whiteleaf}{\mathord{\mathpalette\nicoud@YESNO\relax}}
+\newcommand{\blackleaf}{\mathord{\mathpalette\nicoud@YESNO{\nicoud@path{\fillpath}}}}
+\newcommand{\nicoud@YESNO}[2]{%
+	\begingroup
+	\settoheight{\unitlength}{$#1X$}%
+	\begin{picture}(0.7,1)
+	\linethickness{\variable@rule{#1}}%
+	\roundcap\roundjoin
+	\nicoud@path{\strokepath}
+	#2
+	\Line(0.35,0)(0.35,0.5)
+	\end{picture}%
+	\endgroup
+}
+\newcommand{\nicoud@path}[1]{%
+	\moveto(0.1,0.5)
+	\lineto(0.1,1)\lineto(0.6,1)\lineto(0.6,0.5)
+	\closepath
+	#1
+}
+\newcommand{\variable@rule}[1]{%
+	\fontdimen8  
+	\ifx#1\displaystyle\textfont3\else
+	\ifx#1\textstyle\textfont3\else
+	\ifx#1\scriptstyle\scriptfont3\else
+	\scriptscriptfont3\relax
+	\fi\fi\fi
+}
+\makeatletter
+
